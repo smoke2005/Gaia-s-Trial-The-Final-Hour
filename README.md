@@ -12,6 +12,22 @@ Due to platform limitations, the **complete Unity project including assets, scen
 
 ---
 
+## Gameplay Controls
+
+`H` - Move to home living room from intro
+`Space bar` - Remove the TV plug to reduce phantom energy consumption
+`Q` - Switch off the laptop to restore sustainability back to Dark Grid
+`E` - Move E-waste into black bin 
+`R` - Move Non-biodegradable & Non-recyclable waste into red bin 
+`T` - Move Non-biodegradable & recyclable waste into blue bin 
+`Y` - Move Biodegradable waste into green bin 
+`F` - Move to next room - Forest
+`B` - Put out the forest fire using the bucket of water for climate action
+`U` - Lastly, move to the final judge, the very Earth personified and answer sustainability questions
+`N/M` - N for Option A and M for Option B
+
+---
+
 ## 📂 Included
 
 - `ChoiceSequenceManager.cs` – Controls ordered user choices and consequences in puzzles  
@@ -41,3 +57,4 @@ Due to platform limitations, the **complete Unity project including assets, scen
 ## 📌 Note
 
 To explore the full project, please contact the team for access to the complete Unity project folder, which includes assets and build configurations.
+
